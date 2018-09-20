@@ -6,13 +6,19 @@ void setup()
 void draw()
 {
 noStroke();
-ellipse(40,60,40,30);
+ellipse(45,60,40,30);
 ellipse(70,50,40,30);
 ellipse(95,60,40,30);
 ellipse(70,70,40,30);
+ellipse(195,100,40,30);
+ellipse(245,100,40,30);
+ellipse(220,90,40,30);
+ellipse(220,110,40,30);
+
 
 }
 void mousePressed()
 {
-            
+ 
+
 }
